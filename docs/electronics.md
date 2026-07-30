@@ -49,8 +49,10 @@ while the perfboard stays hidden inside the case.
 
 ## Reference wiring diagram
 
-Built in Tinkercad Circuits (H-Bridge component used as L298N stand-in, since 
+Built in Tinkercad Circuits (L293D component used as L298N stand-in, since 
 Tinkercad's library does not include the L298N specifically).
+
+![Tinkercad wiring diagram](images/wiring-diagram-tinkercad.png)
 
 ## Test code
 
